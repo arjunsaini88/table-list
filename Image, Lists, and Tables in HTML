@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>images</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img  height="230" src="image.png" alt="">
+
+<table> <caption>student details</caption>
+  <tr>
+    <th>name</th>
+    <th>dasignation</th>
+    <th>favourite language </th>
+  </tr>
+  <tr>
+    <td>arjun</td>
+    <td colspan="2">programmer</td>
+    <td rowspan="2">javascript</td>
+  </tr>
+<tr>
+    <td colspan="2">same</td>
+    <td rowspan="2">javascript</td>
+    <tr>
+</tr>
+</table>
+
+<ul type="square">
+    <li>arjun</li>
+    <li>rahul</li>
+    <li>vansh</li>
+</ul>
+
+<ol type="A">
+    <li>arjun</li>
+    <li>rahul</li>
+    <li>vansh</li>
+</ol>
+
+</body>
+</html>
